@@ -1,0 +1,3 @@
+- hosts: team-server
+  roles:
+    - u06.team-server
