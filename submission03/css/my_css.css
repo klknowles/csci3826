@@ -1,0 +1,15 @@
+.Quote {
+  font-size: 0.85em;
+  font-style: italic;
+}
+
+.HomePageImage {
+  width: 100%;
+}
+
+.Body {
+  max-width: 750px;
+}
+
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
