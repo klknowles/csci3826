@@ -1,8 +1,0 @@
-  site_zip_url: http://ps.cs.smu.ca/~u30/NaturesSource.zip
-  website_dir: ns_website
-  group_name: u06
-  public_html: '{{ ansible_facts.env.HOME }}/public_html'
-  website_path: '{{ public_html }}/{{ website_dir }}/'
-  base_url: 'http://ps.cs.smu.ca/~{{ group_name }}/{{ website_dir }}'
-  submissions_path: '{{ public_html }}/submissions'
-  submissions_count: 12
